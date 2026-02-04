@@ -1,0 +1,10 @@
+{
+  "name": "merkle-airdrop-distributor",
+  "version": "1.0.0",
+  "description": "Merkle-tree based token distribution",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "merkletreejs": "^0.3.11",
+    "keccak256": "^1.0.6"
+  }
+}
